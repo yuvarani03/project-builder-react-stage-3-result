@@ -34,17 +34,19 @@ Check below to see the overall output: You will be trying to replicate this
 
 ![Image description](https://i1.faceprep.in/ProGrad/quizfulloutput.gif)
 
-### PROGRESSION 1 | Calculate the score
+### PROGRESSION 1 | SCORE TIME
+Your task in this iteration is to complete the scores and pass it to result component to display as per the screenshot given below.
 ![Image description](https://i1.faceprep.in/ProGrad/q3.PNG)
 
-### PROGRESSION 2 | GO TO PREVIOUS
+### PROGRESSION 2 | SHOW RIGHT OR SHOW WRONG
 
+Your task in this iteration to show whether the answer you chose is right or wrong. You can see the overall output for reference.
 
-### PROGRESSION 3 | JUMP TO NEXT
-Complete the event handler for next button such that you should dynamically go to the next question in the array.
+### PROGRESSION 3 | REDIRECT
+Once the quiz is complete or when the user selects quiz redirect to result page and show the scores.
 
-### PROGRESSION 4 | I WANT TO QUIT
-When the user clicks the quit button, the question should stop getting displayed.
+### PROGRESSION 4 | ROUTING
+Complete all the routing part.
 
 ## Submission
 
