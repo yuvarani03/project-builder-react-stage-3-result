@@ -35,6 +35,7 @@ Check below to see the overall output: You will be trying to replicate this
 ![Image description](https://i1.faceprep.in/ProGrad/quizfulloutput.gif)
 
 ### PROGRESSION 1 | Calculate the score
+![Image description](https://i1.faceprep.in/ProGrad/q3.PNG)
 
 ### PROGRESSION 2 | GO TO PREVIOUS
 
